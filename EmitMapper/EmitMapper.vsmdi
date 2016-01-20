@@ -1,5 +1,5 @@
-﻿<?xml version="1.0" encoding="UTF-8"?>
-<TestLists xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2006">
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TestLists xmlns="http://microsoft.com/schemas/VisualStudio/TeamTest/2010">
   <TestList name="Nodb" id="3ff2f7b8-7077-46a5-b622-6f1ff17808c0" parentListId="8c43106b-9dc1-4907-a29f-aa66a61bf5b6">
     <TestLinks>
       <TestLink id="a728d7a4-7074-a8f8-93c9-c5ffa60fd606" name="Test3_ShallowCopy" storage="emitmappertests\bin\debug\emitmappertests.dll" type="Microsoft.VisualStudio.TestTools.TestTypes.Unit.UnitTestElement, Microsoft.VisualStudio.QualityTools.Tips.UnitTest.ObjectModel,   PublicKeyToken=b03f5f7f11d50a3a" />
