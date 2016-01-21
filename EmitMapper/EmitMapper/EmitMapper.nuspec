@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>EmitMapperRedux</id>
+    <version>1.0.0</version>
+    <title>EmitMapper reincarnation attempt</title>
+    <authors>antonovicha</authors>
+    <owners>antonovicha</owners>
+    <licenseUrl>https://opensource.org/licenses/LGPL-2.1</licenseUrl>
+    <projectUrl>https://github.com/antonovicha/EmitMapperRedux</projectUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>EmitMapper reincarnation attempt</description>
+    <releaseNotes>TODO</releaseNotes>
+    <copyright>Copyright 2016</copyright>
+    <tags>EmitMapper, Mapper</tags>
+  </metadata>
+</package>
