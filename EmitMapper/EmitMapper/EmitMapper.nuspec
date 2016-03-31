@@ -10,7 +10,7 @@
     <projectUrl>https://github.com/antonovicha/EmitMapperRedux</projectUrl>
     <requireLicenseAcceptance>false</requireLicenseAcceptance>
     <description>EmitMapper reincarnation attempt</description>
-    <releaseNotes>TODO</releaseNotes>
+    <releaseNotes>Initial release to test package creation and publishing.</releaseNotes>
     <copyright>Copyright 2016</copyright>
     <tags>EmitMapper, Mapper</tags>
   </metadata>
